@@ -15,3 +15,5 @@ for i in range(99, -1, -1):
 		print(st4.replace("bottles", "bottle"))
 	else:
 		print("No ", st1, "no ", st2, st5)
+print('End of File')
+print('Only for cloning')
